@@ -1,0 +1,6 @@
+@Callapp.UserManagement_HostAddress = http://localhost:5235
+
+GET {{Callapp.UserManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
